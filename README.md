@@ -77,7 +77,7 @@ Brief description of what the project does and its purpose.
 
 Special thanks to people I've worked with:
 
-- **[Btema2](https://github.com/Btema2)** - Contributor
+- **[Artem Bihdash](https://github.com/Btema2)** - Contributor
 - **[Daniel Gidrewicz](https://github.com/blessedlab)** - Contributor
 
 ## 💡 What I'm Interested In
