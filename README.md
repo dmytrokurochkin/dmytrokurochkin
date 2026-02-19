@@ -106,6 +106,7 @@ Special thanks to people I've worked with:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lumenechodev)
 [![Email](https://img.shields.io/badge/Proton_Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dmytro.kurochkin@proton.me)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mrmozozavr/)
 
 ---
 
