@@ -15,6 +15,8 @@ I'm a student passionate about developing my programming skills and building sol
 - 🐍 Experienced with **Python** (especially Telegram bot development with aiogram)
 - 🐧 Linux enthusiast - daily driving **CachyOS** (Arch-based)
 - 🔍 Interested in **OSINT**, **automation**, and **cybersecurity**
+- 🧠 Skilled in **Prompt Engineering** & **AI Tools** - creating high-quality prompts and effectively utilizing AI capabilities
+- 🌐 Experience with **Cisco** networking - working with and configuring routers
 - 🎯 Goal: Become a skilled software engineer and build impactful projects
 
 ## 🛠️ Tech Stack
@@ -38,10 +40,15 @@ I'm a student passionate about developing my programming skills and building sol
 
 ### Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Tools-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Linux Distros Experience
