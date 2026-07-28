@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Student+%26+Aspiring+Developer;Constantly+Learning+New+Tech;Building+Useful+Solutions;Linux+%26+Automation+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Student+%26+Aspiring+Developer;Constantly+Learning+New+Tech;Building+Useful+Solutions;Linux+%26+Automation+Enthusiast)
   
 </div>
 
@@ -60,7 +60,7 @@ I'm a student passionate about developing my programming skills and building sol
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmytrokurochkin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmytrokurochkin&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=dmytrokurochkin&theme=tokyonight&hide_border=true)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&theme=tokyonight&hide_border=true)
   
@@ -68,24 +68,23 @@ I'm a student passionate about developing my programming skills and building sol
 
 ## 🔥 Featured Projects
 
-<!-- Add your projects here using this template:
+### 🤖 [Ai-Bot-v2](https://github.com/dmytrokurochkin/AI-Bot-v2)
+Мультифункціональний AI бот.
 
-### 🤖 [Project Name](link-to-repo)
-Brief description of what the project does and its purpose.
-
-**Tech Stack:** `Python` `aiogram` `PostgreSQL`
+**Tech Stack:** `Python` `aiogram`
 
 ---
--->
 
-*Coming soon! Currently focused on learning and will be adding personal projects here.*
+### 🎥 [Media-Downloader-Bot](https://github.com/dmytrokurochkin/Media-Downloader-Bot)
+Бот для зручного завантаження медіа з різних платформ.
+
+**Tech Stack:** `Python` `aiogram`
 
 ## 👥 Contributors & Collaborators
 
 Special thanks to people I've worked with:
 
 - **[Artem Bihdash](https://github.com/Btema2)** - Contributor
-- **[Daniel Gidrewicz](https://github.com/blessedlab)** - Contributor
 
 ## 💡 What I'm Interested In
 
