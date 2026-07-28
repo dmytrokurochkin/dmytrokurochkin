@@ -58,11 +58,11 @@ I'm a student passionate about developing my programming skills and building sol
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmytrokurochkin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2)
   
   ![GitHub Streak](https://streak-stats.demolab.com/?user=dmytrokurochkin&theme=tokyonight&hide_border=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&theme=tokyonight&hide_border=true&v=2)
   
 </div>
 
