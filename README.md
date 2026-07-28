@@ -69,14 +69,14 @@ I'm a student passionate about developing my programming skills and building sol
 ## 🔥 Featured Projects
 
 ### 🤖 [Ai-Bot-v2](https://github.com/dmytrokurochkin/AI-Bot-v2)
-Мультифункціональний AI бот.
+A multifunctional AI bot.
 
 **Tech Stack:** `Python` `aiogram`
 
 ---
 
 ### 🎥 [Media-Downloader-Bot](https://github.com/dmytrokurochkin/Media-Downloader-Bot)
-Бот для зручного завантаження медіа з різних платформ.
+A bot for easily downloading media from various platforms.
 
 **Tech Stack:** `Python` `aiogram`
 
