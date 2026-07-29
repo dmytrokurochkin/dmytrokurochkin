@@ -58,11 +58,11 @@ I'm a student passionate about developing my programming skills and building sol
 
 <div align="center">
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=3" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;v=4" height="195" alt="GitHub Stats" />
   
-  <img src="https://streak-stats.demolab.com/?user=dmytrokurochkin&theme=tokyonight&hide_border=true&v=3" height="195" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dmytrokurochkin&amp;theme=tokyonight&amp;hide_border=true&amp;v=4" height="195" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&theme=tokyonight&hide_border=true&v=3" height="195" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;v=4" height="195" alt="Top Langs" />
   
 </div>
 
