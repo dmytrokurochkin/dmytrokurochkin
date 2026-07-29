@@ -13,7 +13,7 @@ I'm a student passionate about developing my programming skills and building sol
 - 🎓 Studying at a technical school in Poland (IT Technician/Programmer track)
 - 💻 Actively learning **Java**, **JavaScript**, **PHP**, **React**, and **MySQL**
 - 🐍 Experienced with **Python** (especially Telegram bot development with aiogram)
-- 🐧 Linux enthusiast - daily driving **CachyOS** (Arch-based)
+- 🐧 Linux enthusiast - daily driving **Arch Linux**
 - 🔍 Interested in **OSINT**, **automation**, and **cybersecurity**
 - 🧠 Skilled in **Prompt Engineering** & **AI Tools** - creating high-quality prompts and effectively utilizing AI capabilities
 - 🌐 Experience with **Cisco** networking - working with and configuring routers
@@ -52,17 +52,17 @@ I'm a student passionate about developing my programming skills and building sol
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Linux Distros Experience
-`CachyOS` • `Arch Linux` • `Linux Mint` • `Kali Linux` • `ParrotOS`
+`Arch Linux` • `Linux Mint` • `Kali Linux` • `ParrotOS`
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2)
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=3" height="195" alt="GitHub Stats" />
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=dmytrokurochkin&theme=tokyonight&hide_border=true)
+  <img src="https://streak-stats.demolab.com/?user=dmytrokurochkin&theme=tokyonight&hide_border=true&v=3" height="195" alt="GitHub Streak" />
   
-  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&theme=tokyonight&hide_border=true&v=2)
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&theme=tokyonight&hide_border=true&v=3" height="195" alt="Top Langs" />
   
 </div>
 
