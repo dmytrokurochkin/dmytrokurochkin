@@ -60,7 +60,7 @@ I'm a student passionate about developing my programming skills and building sol
   
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;v=4" height="195" alt="GitHub Stats" />
   
-  <img src="https://streak-stats.demolab.com/?user=dmytrokurochkin&amp;theme=tokyonight&amp;hide_border=true&amp;v=4" height="195" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=dmytrokurochkin&amp;theme=tokyonight&amp;hide_border=true&amp;v=5" height="195" alt="GitHub Streak" />
   
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;v=4" height="195" alt="Top Langs" />
   
