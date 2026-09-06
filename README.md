@@ -48,8 +48,6 @@ I build things that go past a single script. **[Media-Downloader-Bot](https://gi
 ![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)
 
-`Arch Linux` • `Linux Mint` • `Kali Linux` • `ParrotOS`
-
 </div>
 
 ## Featured Work
@@ -75,9 +73,9 @@ Thanks to **[Artem Bihdash](https://github.com/Btema2)** for contributing to Med
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=a1a1aa&border_radius=12&v=6" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=12&v=6" height="180" alt="Top Langs" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=a1a1aa&border_radius=12&v=7" width="430" alt="GitHub Stats" /> <img src="https://streak-stats.vercel.app/?user=dmytrokurochkin&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=707070&border_radius=12&v=7" width="430" alt="GitHub Streak" />
 
-<img src="https://streak-stats.vercel.app/?user=dmytrokurochkin&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=707070&border_radius=12&v=6" height="180" alt="GitHub Streak" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=12&v=7" width="430" alt="Top Langs" />
 
 </div>
 
