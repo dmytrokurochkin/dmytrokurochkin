@@ -1,123 +1,98 @@
-# 👋 Hi there, I'm Dmytro!
+# Hi, I'm Dmytro 👋
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Student+%26+Aspiring+Developer;Constantly+Learning+New+Tech;Building+Useful+Solutions;Linux+%26+Automation+Enthusiast)
-  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6B7280&center=true&vCenter=true&width=460&lines=Telegram+Bot+Developer;Python+%2B+aiogram;Building+Real%2C+Shipped+Projects)
+
 </div>
 
-## 🚀 About Me
+## About
 
-I'm a student passionate about developing my programming skills and building solutions that make life easier. Currently diving deep into web development, automation, and system administration.
+I build things that go past a single script. **[Media-Downloader-Bot](https://github.com/dmytrokurochkin/Media-Downloader-Bot)** pairs an aiogram backend with a Mini App and Telegram Stars subscriptions, backed by 194 automated tests and CI. **[meeting-room-booking](https://github.com/dmytrokurochkin/meeting-room-booking)** is a Next.js/PostgreSQL booking app with race-condition-safe scheduling that placed **Top 3 at the UA Skills hackathon**. **[AI-Bot-v2](https://github.com/dmytrokurochkin/AI-Bot-v2)** wraps an LLM in per-chat memory, vision/voice input, and a full billing + admin panel, covered by 63 tests.
 
-- 🎓 Studying at a technical school in Poland (IT Technician/Programmer track)
-- 💻 Actively learning **Java**, **JavaScript**, **PHP**, **React**, and **MySQL**
-- 🐍 Experienced with **Python** (especially Telegram bot development with aiogram)
-- 🐧 Linux enthusiast - daily driving **Arch Linux**
-- 🔍 Interested in **OSINT**, **automation**, and **cybersecurity**
-- 🧠 Skilled in **Prompt Engineering** & **AI Tools** - creating high-quality prompts and effectively utilizing AI capabilities
-- 🌐 Experience with **Cisco** networking - working with and configuring routers
-- 🎯 Goal: Become a skilled software engineer and build impactful projects
+- 🎓 Studying IT (Technician/Programmer track) at a technical school in Poland
+- 🐍 Primary stack: **Python + aiogram**, picking up **TypeScript, Java, PHP, React, PostgreSQL**
+- 🐧 Daily-driving **Arch Linux**; comfortable with **Cisco** networking and self-hosted VPS deployment
+- 🎯 Focused on shipping real, tested, deployed projects — not just scripts
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+**Frameworks & Libraries**
 
-### Tools & Technologies
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI_Tools-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-000000?style=for-the-badge&logo=telegram&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Linux Distros Experience
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Infra**
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)
+
 `Arch Linux` • `Linux Mint` • `Kali Linux` • `ParrotOS`
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;v=4" height="195" alt="GitHub Stats" />
-  
-  <img src="https://streak-stats.vercel.app/?user=dmytrokurochkin&amp;theme=tokyonight&amp;hide_border=true&amp;v=5" height="195" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;v=4" height="195" alt="Top Langs" />
-  
-</div>
-
-## 🔥 Featured Projects
-
-### 🤖 [Ai-Bot-v2](https://github.com/dmytrokurochkin/AI-Bot-v2)
-A multifunctional AI bot.
-
-**Tech Stack:** `Python` `aiogram`
-
----
+## Featured Work
 
 ### 🎥 [Media-Downloader-Bot](https://github.com/dmytrokurochkin/Media-Downloader-Bot)
-A bot for easily downloading media from various platforms.
+Telegram bot for downloading media from YouTube, Spotify, Instagram, TikTok and more — with a Mini App, tiered subscriptions via Telegram Stars, watermarking, and admin tools.
+194 tests · GitHub Actions CI · i18n (UA/PL/EN)
+`Python` `aiogram` `Telegram Mini App` `Telegram Stars`
 
-**Tech Stack:** `Python` `aiogram`
+### 🏆 [meeting-room-booking](https://github.com/dmytrokurochkin/meeting-room-booking)
+Meeting room booking web app — weekly schedule, recurring reservations, and race-condition-safe booking via a database exclusion constraint. **Top 3, UA Skills hackathon.**
+Unit + integration tests · Docker Compose · timezone-aware scheduling
+`Next.js` `TypeScript` `PostgreSQL` `Prisma`
 
-## 👥 Contributors & Collaborators
+### 🤖 [AI-Bot-v2](https://github.com/dmytrokurochkin/AI-Bot-v2)
+AI-powered Telegram bot with vision, voice, and file understanding — per-chat memory, tiered token quotas, Telegram Stars billing with refunds, and a full button-driven admin panel.
+63 tests covering quota and billing logic
+`Python` `aiogram` `OpenAI SDK` `SQLite`
 
-Special thanks to people I've worked with:
+Thanks to **[Artem Bihdash](https://github.com/Btema2)** for contributing to Media-Downloader-Bot.
 
-- **[Artem Bihdash](https://github.com/Btema2)** - Contributor
+## GitHub Stats
 
-## 💡 What I'm Interested In
+<div align="center">
 
-- 🔍 **OSINT** - Open Source Intelligence techniques and tools
-- 🤖 **Automation** - Building bots and scripts that simplify daily tasks
-- 🔐 **Cybersecurity** - Security research and ethical hacking
-- 🌐 **Web Development** - Creating responsive and functional web applications
-- 💪 **Fitness** - Regular gym training and staying healthy
-- 🍳 **Cooking** - Experimenting with recipes and cuisines
-- 📸 **Photography** - Capturing nature and landscapes
-- 🎮 **Gaming** - My favorite titles:
-  - Elden Ring
-  - Dota 2
-  - Baldur's Gate 3
-  - The Binding of Isaac
-  - Hotline Miami
-  - Noita
-  - R.E.P.O
-  - PEAK
-  - Sons Of The Forest
-  - World of Tanks
-  - Besiege
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=a1a1aa&border_radius=12&v=6" height="195" alt="GitHub Stats" />
 
-## 📫 Get in Touch
+<img src="https://streak-stats.vercel.app/?user=dmytrokurochkin&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=707070&border_radius=12&v=6" height="195" alt="GitHub Streak" />
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lumenechodev)
-[![Email](https://img.shields.io/badge/Proton_Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dmytro.kurochkin@proton.me)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=12&v=6" height="195" alt="Top Langs" />
+
+</div>
+
+## What I'm Interested In
+
+🔍 **OSINT** · 🤖 **Automation** · 🔐 **Cybersecurity** · 🌐 **Web Development** · 💪 **Fitness** · 🍳 **Cooking** · 📸 **Photography**
+
+## Get in Touch
+
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lumenechodev)
+[![Email](https://img.shields.io/badge/Proton_Mail-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dmytro.kurochkin@proton.me)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mrmozozavr/)
 
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=dmytrokurochkin&color=blueviolet&style=flat-square)
-  
+
+![Profile Views](https://komarev.com/ghpvc/?username=dmytrokurochkin&style=flat-square&color=000000&label=Profile+Views)
+
 </div>
