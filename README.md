@@ -17,6 +17,8 @@ I build things that go past a single script. **[Media-Downloader-Bot](https://gi
 
 ## Tech Stack
 
+<div align="center">
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -48,6 +50,8 @@ I build things that go past a single script. **[Media-Downloader-Bot](https://gi
 
 `Arch Linux` • `Linux Mint` • `Kali Linux` • `ParrotOS`
 
+</div>
+
 ## Featured Work
 
 ### 🎥 [Media-Downloader-Bot](https://github.com/dmytrokurochkin/Media-Downloader-Bot)
@@ -71,23 +75,29 @@ Thanks to **[Artem Bihdash](https://github.com/Btema2)** for contributing to Med
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=a1a1aa&border_radius=12&v=6" height="195" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=a1a1aa&border_radius=12&v=6" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=12&v=6" height="180" alt="Top Langs" />
 
-<img src="https://streak-stats.vercel.app/?user=dmytrokurochkin&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=707070&border_radius=12&v=6" height="195" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=12&v=6" height="195" alt="Top Langs" />
+<img src="https://streak-stats.vercel.app/?user=dmytrokurochkin&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=707070&border_radius=12&v=6" height="180" alt="GitHub Streak" />
 
 </div>
 
 ## What I'm Interested In
 
+<div align="center">
+
 🔍 **OSINT** · 🤖 **Automation** · 🔐 **Cybersecurity** · 🌐 **Web Development** · 💪 **Fitness** · 🍳 **Cooking** · 📸 **Photography**
 
+</div>
+
 ## Get in Touch
+
+<div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lumenechodev)
 [![Email](https://img.shields.io/badge/Proton_Mail-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dmytro.kurochkin@proton.me)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mrmozozavr/)
+
+</div>
 
 ---
 
