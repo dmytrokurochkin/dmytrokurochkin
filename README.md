@@ -8,7 +8,7 @@
 
 ## About
 
-I build things that go past a single script. **[Media-Downloader-Bot](https://github.com/dmytrokurochkin/Media-Downloader-Bot)** pairs an aiogram backend with a Mini App and Telegram Stars subscriptions, backed by 194 automated tests and CI. **[meeting-room-booking](https://github.com/dmytrokurochkin/meeting-room-booking)** is a Next.js/PostgreSQL booking app with race-condition-safe scheduling that placed **Top 3 at the UA Skills hackathon**. **[AI-Bot-v2](https://github.com/dmytrokurochkin/AI-Bot-v2)** wraps an LLM in per-chat memory, vision/voice input, and a full billing + admin panel, covered by 63 tests.
+I build things that go past a single script. **[Media-Downloader-Bot](https://github.com/dmytrokurochkin/Media-Downloader-Bot)** pairs an aiogram backend with a Mini App and Telegram Stars subscriptions, backed by 194 automated tests and CI. **[Meeting-Room-Booking](https://github.com/dmytrokurochkin/Meeting-Room-Booking)** is a Next.js/PostgreSQL booking app with race-condition-safe scheduling that placed **Top 3 at the UA Skills hackathon**. **[AI-Bot-v2](https://github.com/dmytrokurochkin/AI-Bot-v2)** wraps an LLM in per-chat memory, vision/voice input, and a full billing + admin panel, covered by 63 tests. **[Easy-Osint-Bot](https://github.com/dmytrokurochkin/Easy-Osint-Bot)** wraps five OSINT tools behind one Telegram bot with a self-installing bootstrap and per-user language choice. **[Palette-Studio](https://github.com/dmytrokurochkin/Palette-Studio)** is a zero-build Material Design 3 palette tool where three hex codes repaint a full six-page demo site with computed contrast and dark mode.
 
 - 🎓 Studying IT (Technician/Programmer track) at a technical school in Poland
 - 🐍 Primary stack: **Python + aiogram**, picking up **TypeScript, Java, PHP, React, PostgreSQL**
@@ -57,7 +57,7 @@ Telegram bot for downloading media from YouTube, Spotify, Instagram, TikTok and 
 194 tests · GitHub Actions CI · i18n (UA/PL/EN)
 `Python` `aiogram` `Telegram Mini App` `Telegram Stars`
 
-### 🏆 [meeting-room-booking](https://github.com/dmytrokurochkin/meeting-room-booking)
+### 🏆 [Meeting-Room-Booking](https://github.com/dmytrokurochkin/Meeting-Room-Booking)
 Meeting room booking web app — weekly schedule, recurring reservations, and race-condition-safe booking via a database exclusion constraint. **Top 3, UA Skills hackathon.**
 Unit + integration tests · Docker Compose · timezone-aware scheduling
 `Next.js` `TypeScript` `PostgreSQL` `Prisma`
@@ -66,6 +66,16 @@ Unit + integration tests · Docker Compose · timezone-aware scheduling
 AI-powered Telegram bot with vision, voice, and file understanding — per-chat memory, tiered token quotas, Telegram Stars billing with refunds, and a full button-driven admin panel.
 63 tests covering quota and billing logic
 `Python` `aiogram` `OpenAI SDK` `SQLite`
+
+### 🔍 [Easy-Osint-Bot](https://github.com/dmytrokurochkin/Easy-Osint-Bot)
+Telegram bot for OSINT lookups by username, email, or phone number — wraps Blackbird, Maigret, Sherlock, Holehe, and GHunt behind one bot, with a self-installing bootstrap and per-user language choice.
+100 tests · vendored GPLv3 tooling · i18n (EN/UK/PL)
+`Python` `aiogram` `OSINT`
+
+### 🎨 [Palette-Studio](https://github.com/dmytrokurochkin/Palette-Studio)
+Live Material Design 3 palette preview — three hex colors repaint a full six-page demo site instantly, with computed WCAG contrast, derived dark mode, and 40 real-world presets.
+No build step, no backend · trilingual UI (EN/UK/PL)
+`JavaScript` `CSS` `Design Systems`
 
 Thanks to **[Artem Bihdash](https://github.com/Btema2)** for contributing to Media-Downloader-Bot.
 
