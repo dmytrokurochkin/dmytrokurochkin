@@ -11,10 +11,7 @@
 
 ## About
 
-IT student (Technician/Programmer track) at a technical school in Poland. I build Telegram bots, a Telegram client and web apps, from idea to deployment on my own Linux server, with tests and CI.
-
-- **Python** is my strongest language and the core of my work (aiogram, async, testing). I have spent the last few years broadening the stack with TypeScript, C++, C#, React, Next.js and PostgreSQL
-- Hands-on experience with various Linux distributions; my projects are hosted on my own Linux server
+IT student (Technician/Programmer track) at a technical school in Poland. Python is my strongest language and the core of my work: I build Telegram bots with aiogram, plus a Telegram client and web apps, taking each project from idea to deployment with tests and CI on my own Linux server. Over the last few years I have been broadening my stack with TypeScript, C++, C#, React, Next.js and PostgreSQL, and I have worked with various Linux distributions along the way.
 
 ## AI
 
