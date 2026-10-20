@@ -11,20 +11,14 @@
 
 ## About
 
-IT student (Technician/Programmer track) at a technical school in Poland. I build Telegram bots, a Telegram client and web apps, from idea to deployment on my own Linux server, with tests and CI. I use AI tools daily in development and take part in testing and building products on Ukrainian LLMs.
+IT student (Technician/Programmer track) at a technical school in Poland. I build Telegram bots, a Telegram client and web apps, from idea to deployment on my own Linux server, with tests and CI.
 
 - 🐍 **Python** is my strongest language and the core of my work (aiogram, async, testing). I have spent the last few years broadening the stack with TypeScript, C++, C#, React, Next.js and PostgreSQL
-- 🤖 AI in my workflow: **Claude Code**, **Google Antigravity**, local models with **LM Studio** and **ComfyUI**
-- 🇺🇦 Testing and building products on Ukrainian LLMs at **[Lapathoniia](https://lapathoniia.top)** (Lapa, Mamay, Rukopys OCR)
 - 🐧 Hands-on experience with various Linux distributions; my projects are hosted on my own Linux server
 
-## AI & Tooling
+## AI
 
-- **AI-assisted development.** I use Claude Code and Google Antigravity across the full cycle: design, implementation, review, testing, refactoring. I have worked with LLMs since their early days, so I understand both their capabilities and limits: context windows, hallucinations, token cost, prompt design.
-- **Custom skills and orchestration.** I write my own skills for Claude Code and work with an orchestrator that coordinates multiple agents on larger tasks.
-- **Local AI.** I run local models and AI agents through LM Studio. With ComfyUI I work locally with image-generation models and have trained a LoRA to fit my own needs.
-- **LLM-powered products.** [AI-Bot-v2](https://github.com/dmytrokurochkin/AI-Bot-v2): per-chat memory, vision/voice input, token quotas, billing.
-- **Ukrainian AI models.** I test and build products on **[Lapathoniia](https://lapathoniia.top)**, the first Ukrainian LLM inference provider with an OpenAI-compatible API: Lapa (12B), Mamay (27B, 64K context) and Rukopys OCR (handwriting recognition). I work with the API, evaluate response quality in Ukrainian and integrate the models into my own projects.
+AI is part of my daily workflow. I develop with **Claude Code** and **Google Antigravity**, write my own Claude Code skills, and run larger tasks through an orchestrator that coordinates several agents. I have worked with LLMs since their early days. Locally, I run models and agents in **LM Studio**, and in **ComfyUI** I work with image-generation models and have trained a LoRA for my own needs. I also test and build products on Ukrainian LLMs at **[Lapathoniia](https://lapathoniia.top)**, the first Ukrainian LLM inference provider with an OpenAI-compatible API (Lapa 12B, Mamay 27B, Rukopys OCR).
 
 ## Tech Stack
 
