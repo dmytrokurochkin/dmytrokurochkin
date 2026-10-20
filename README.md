@@ -116,6 +116,6 @@ Thanks to **[Artem Bihdash](https://github.com/Btema2)** for contributing to Med
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=12&show_icons=true&icon_color=a1a1aa&count_private=true&include_all_commits=true&hide=prs,issues&v=9" width="480" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=12&show_icons=true&icon_color=a1a1aa&include_all_commits=true&hide=prs,issues&v=10" width="480" alt="GitHub Stats" />
 
 </div>
