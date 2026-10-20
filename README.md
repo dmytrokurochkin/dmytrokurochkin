@@ -64,14 +64,16 @@ AI is part of my daily workflow. I develop with **Claude Code** and **Google Ant
 
 ### MZGram
 
-[![GitHub](https://img.shields.io/badge/GitHub-repository-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/dmytrokurochkin/MZGram-Desktop)
+[![GitHub](https://img.shields.io/badge/GitHub-desktop_version-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/dmytrokurochkin/MZGram-Desktop) [![Android](https://img.shields.io/badge/GitHub-android_version-000000?style=flat-square&logo=android&logoColor=white)](https://github.com/dmytrokurochkin/MZGram-Android)
+
 Unofficial Telegram client for desktop and Android, forked from Telegram Desktop and Telegram for Android. Keeps deleted and edited messages, ghost mode, message tools, 12 interface languages, and self-updating releases verified by SHA-256 checksums.
-CI builds for Windows (x64, ARM64) and Linux · [Android version](https://github.com/dmytrokurochkin/MZGram-Android)
+CI builds for Windows (x64, ARM64) and Linux
 `C++` `Qt` `CMake` `GitHub Actions`
 
 ### Media-Downloader-Bot
 
 [![GitHub](https://img.shields.io/badge/GitHub-repository-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/dmytrokurochkin/Media-Downloader-Bot)
+
 Telegram bot for downloading media from YouTube, Spotify, Instagram, TikTok and more — with a Mini App, tiered subscriptions via Telegram Stars, watermarking, and admin tools.
 194 tests · GitHub Actions CI · i18n (UA/PL/EN)
 `Python` `aiogram` `Telegram Mini App` `Telegram Stars`
@@ -79,6 +81,7 @@ Telegram bot for downloading media from YouTube, Spotify, Instagram, TikTok and 
 ### Easy-Osint-Bot
 
 [![GitHub](https://img.shields.io/badge/GitHub-repository-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/dmytrokurochkin/Easy-Osint-Bot)
+
 Telegram bot for OSINT lookups by username, email, or phone number — wraps Blackbird, Maigret, Sherlock, Holehe, and GHunt behind one bot, with a self-installing bootstrap and per-user language choice.
 100 tests · vendored GPLv3 tooling · i18n (EN/UK/PL)
 `Python` `aiogram` `OSINT`
@@ -86,6 +89,7 @@ Telegram bot for OSINT lookups by username, email, or phone number — wraps Bla
 ### AI-Bot-v2
 
 [![GitHub](https://img.shields.io/badge/GitHub-repository-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/dmytrokurochkin/AI-Bot-v2)
+
 AI-powered Telegram bot with vision, voice, and file understanding — per-chat memory, tiered token quotas, Telegram Stars billing with refunds, and a full button-driven admin panel.
 63 tests covering quota and billing logic
 `Python` `aiogram` `OpenAI SDK` `SQLite`
@@ -93,6 +97,7 @@ AI-powered Telegram bot with vision, voice, and file understanding — per-chat 
 ### Palette-Studio
 
 [![GitHub](https://img.shields.io/badge/GitHub-repository-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/dmytrokurochkin/Palette-Studio)
+
 Live Material Design 3 palette preview — three hex colors repaint a full six-page demo site instantly, with computed WCAG contrast, derived dark mode, and 40 real-world presets.
 No build step, no backend
 `JavaScript` `CSS` `Design Systems`
@@ -100,6 +105,7 @@ No build step, no backend
 ### Meeting-Room-Booking
 
 [![GitHub](https://img.shields.io/badge/GitHub-repository-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/dmytrokurochkin/Meeting-Room-Booking)
+
 Meeting room booking web app — weekly schedule, recurring reservations, and race-condition-safe booking via a database exclusion constraint. **Top 3, UA Skills hackathon.**
 Unit + integration tests · Docker Compose · timezone-aware scheduling
 `Next.js` `TypeScript` `PostgreSQL` `Prisma`
