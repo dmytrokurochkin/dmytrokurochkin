@@ -1,19 +1,21 @@
-# Hi, I'm Dmytro 👋
+# Dmytro Kurochkin
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6B7280&center=true&vCenter=true&width=460&lines=Telegram+Bot+Developer;Python+%2B+aiogram;Building+Real%2C+Shipped+Projects)
-
-</div>
+**Python / Telegram Bot Developer · AI-assisted development · AI model tester**
 
 ## About
 
-I build things that go past a single script. **[Media-Downloader-Bot](https://github.com/dmytrokurochkin/Media-Downloader-Bot)** pairs an aiogram backend with a Mini App and Telegram Stars subscriptions, backed by 194 automated tests and CI. **[Meeting-Room-Booking](https://github.com/dmytrokurochkin/Meeting-Room-Booking)** is a Next.js/PostgreSQL booking app with race-condition-safe scheduling that placed **Top 3 at the UA Skills hackathon**. **[AI-Bot-v2](https://github.com/dmytrokurochkin/AI-Bot-v2)** wraps an LLM in per-chat memory, vision/voice input, and a full billing + admin panel, covered by 63 tests. **[Easy-Osint-Bot](https://github.com/dmytrokurochkin/Easy-Osint-Bot)** wraps five OSINT tools behind one Telegram bot with a self-installing bootstrap and per-user language choice. **[Palette-Studio](https://github.com/dmytrokurochkin/Palette-Studio)** is a zero-build Material Design 3 palette tool where three hex codes repaint a full six-page demo site with computed contrast and dark mode.
+IT student (Technician/Programmer track) at a technical school in Poland. I build Telegram bots and web apps with Python + aiogram and TypeScript, from idea to VPS deployment, with tests and CI. I use AI tools daily in development and take part in testing and building products on Ukrainian LLMs.
 
-- 🎓 Studying IT (Technician/Programmer track) at a technical school in Poland
-- 🐍 Primary stack: **Python + aiogram**, picking up **TypeScript, Java, PHP, React, PostgreSQL**
-- 🐧 Daily-driving **Arch Linux**; comfortable with **Cisco** networking and self-hosted VPS deployment
-- 🎯 Focused on shipping real, tested, deployed projects — not just scripts
+- 🐍 Core stack: **Python + aiogram**; also **TypeScript, Next.js, React, PostgreSQL**; currently learning Java and PHP
+- 🤖 AI in my workflow: **Claude Code**, **Google Gemini**, **Google AI Studio**, **Google Antigravity**
+- 🇺🇦 Testing and building products on Ukrainian LLMs at **[Lapathoniia](https://lapathoniia.top)** (Lapa, Mamay, Rukopys OCR)
+- 🐧 Daily-driving Linux (Arch), basic networking (Cisco), self-hosted deployment
+
+## AI & Tooling
+
+- **AI-assisted development.** I use Claude Code and Gemini (AI Studio, Antigravity) across the full cycle: design, implementation, review, testing, refactoring. I have worked with LLMs since their early days, so I understand both their capabilities and limits: context windows, hallucinations, token cost, prompt design.
+- **LLM-powered products.** [AI-Bot-v2](https://github.com/dmytrokurochkin/AI-Bot-v2): per-chat memory, vision/voice input, token quotas, billing.
+- **Ukrainian AI models.** I test and build products on **[Lapathoniia](https://lapathoniia.top)**, the first Ukrainian LLM inference provider with an OpenAI-compatible API: Lapa (12B), Mamay (27B, 64K context) and Rukopys OCR (handwriting recognition). I work with the API, evaluate response quality in Ukrainian and integrate the models into my own projects.
 
 ## Tech Stack
 
@@ -39,6 +41,13 @@ I build things that go past a single script. **[Media-Downloader-Bot](https://gi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**AI Tools**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/AI_Studio-000000?style=for-the-badge&logo=googleaistudio&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white)
 
 **Tools & Infra**
 
@@ -89,28 +98,11 @@ Thanks to **[Artem Bihdash](https://github.com/Btema2)** for contributing to Med
 
 </div>
 
-## What I'm Interested In
-
-<div align="center">
-
-🔍 **OSINT** · 🤖 **Automation** · 🔐 **Cybersecurity** · 🌐 **Web Development** · 💪 **Fitness** · 🍳 **Cooking** · 📸 **Photography**
-
-</div>
-
 ## Get in Touch
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lumenechodev)
 [![Email](https://img.shields.io/badge/Proton_Mail-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dmytro.kurochkin@proton.me)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mrmozozavr/)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dmytrokurochkin&style=flat-square&color=000000&label=Profile+Views)
 
 </div>
