@@ -13,8 +13,8 @@
 
 IT student (Technician/Programmer track) at a technical school in Poland. I build Telegram bots, a Telegram client and web apps, from idea to deployment on my own Linux server, with tests and CI.
 
-- 🐍 **Python** is my strongest language and the core of my work (aiogram, async, testing). I have spent the last few years broadening the stack with TypeScript, C++, C#, React, Next.js and PostgreSQL
-- 🐧 Hands-on experience with various Linux distributions; my projects are hosted on my own Linux server
+- **Python** is my strongest language and the core of my work (aiogram, async, testing). I have spent the last few years broadening the stack with TypeScript, C++, C#, React, Next.js and PostgreSQL
+- Hands-on experience with various Linux distributions; my projects are hosted on my own Linux server
 
 ## AI
 
@@ -65,32 +65,32 @@ AI is part of my daily workflow. I develop with **Claude Code** and **Google Ant
 
 ## Featured Work
 
-### 💬 [MZGram](https://github.com/dmytrokurochkin/MZGram-Desktop)
+### [MZGram](https://github.com/dmytrokurochkin/MZGram-Desktop)
 Unofficial Telegram client for desktop and Android, forked from Telegram Desktop and Telegram for Android. Keeps deleted and edited messages, ghost mode, message tools, 12 interface languages, and self-updating releases verified by SHA-256 checksums.
 CI builds for Windows (x64, ARM64) and Linux · [Android version](https://github.com/dmytrokurochkin/MZGram-Android)
 `C++` `Qt` `CMake` `GitHub Actions`
 
-### 🎥 [Media-Downloader-Bot](https://github.com/dmytrokurochkin/Media-Downloader-Bot)
+### [Media-Downloader-Bot](https://github.com/dmytrokurochkin/Media-Downloader-Bot)
 Telegram bot for downloading media from YouTube, Spotify, Instagram, TikTok and more — with a Mini App, tiered subscriptions via Telegram Stars, watermarking, and admin tools.
 194 tests · GitHub Actions CI · i18n (UA/PL/EN)
 `Python` `aiogram` `Telegram Mini App` `Telegram Stars`
 
-### 🔍 [Easy-Osint-Bot](https://github.com/dmytrokurochkin/Easy-Osint-Bot)
+### [Easy-Osint-Bot](https://github.com/dmytrokurochkin/Easy-Osint-Bot)
 Telegram bot for OSINT lookups by username, email, or phone number — wraps Blackbird, Maigret, Sherlock, Holehe, and GHunt behind one bot, with a self-installing bootstrap and per-user language choice.
 100 tests · vendored GPLv3 tooling · i18n (EN/UK/PL)
 `Python` `aiogram` `OSINT`
 
-### 🤖 [AI-Bot-v2](https://github.com/dmytrokurochkin/AI-Bot-v2)
+### [AI-Bot-v2](https://github.com/dmytrokurochkin/AI-Bot-v2)
 AI-powered Telegram bot with vision, voice, and file understanding — per-chat memory, tiered token quotas, Telegram Stars billing with refunds, and a full button-driven admin panel.
 63 tests covering quota and billing logic
 `Python` `aiogram` `OpenAI SDK` `SQLite`
 
-### 🎨 [Palette-Studio](https://github.com/dmytrokurochkin/Palette-Studio)
+### [Palette-Studio](https://github.com/dmytrokurochkin/Palette-Studio)
 Live Material Design 3 palette preview — three hex colors repaint a full six-page demo site instantly, with computed WCAG contrast, derived dark mode, and 40 real-world presets.
 No build step, no backend · trilingual UI (EN/UK/PL)
 `JavaScript` `CSS` `Design Systems`
 
-### 🏆 [Meeting-Room-Booking](https://github.com/dmytrokurochkin/Meeting-Room-Booking)
+### [Meeting-Room-Booking](https://github.com/dmytrokurochkin/Meeting-Room-Booking)
 Meeting room booking web app — weekly schedule, recurring reservations, and race-condition-safe booking via a database exclusion constraint. **Top 3, UA Skills hackathon.**
 Unit + integration tests · Docker Compose · timezone-aware scheduling
 `Next.js` `TypeScript` `PostgreSQL` `Prisma`
