@@ -87,7 +87,7 @@ AI-powered Telegram bot with vision, voice, and file understanding — per-chat 
 
 ### [Palette-Studio](https://github.com/dmytrokurochkin/Palette-Studio)
 Live Material Design 3 palette preview — three hex colors repaint a full six-page demo site instantly, with computed WCAG contrast, derived dark mode, and 40 real-world presets.
-No build step, no backend · trilingual UI (EN/UK/PL)
+No build step, no backend
 `JavaScript` `CSS` `Design Systems`
 
 ### [Meeting-Room-Booking](https://github.com/dmytrokurochkin/Meeting-Room-Booking)
