@@ -98,27 +98,8 @@ Thanks to **[Artem Bihdash](https://github.com/Btema2)** for contributing to Med
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="top">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=a1a1aa&border_radius=12&v=7" width="430" alt="GitHub Stats" /> <img src="https://streak-stats.vercel.app/?user=dmytrokurochkin&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=707070&border_radius=12&v=7" width="430" alt="GitHub Streak" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=420&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=00000000&border_radius=12&v=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=420&theme=transparent&title_color=0969da&text_color=24292f&icon_color=0969da&bg_color=00000000&border_radius=12&v=8" />
-  <img alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmytrokurochkin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=420&theme=transparent&v=8" width="420" />
-</picture>
-
-</td>
-<td align="center" valign="top">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&hide_border=true&card_width=420&langs_count=6&theme=transparent&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&border_radius=12&v=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&hide_border=true&card_width=420&langs_count=6&theme=transparent&title_color=0969da&text_color=24292f&bg_color=00000000&border_radius=12&v=8" />
-  <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&hide_border=true&card_width=420&langs_count=6&theme=transparent&v=8" width="420" />
-</picture>
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmytrokurochkin&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&border_radius=12&v=7" width="430" alt="Top Langs" />
 
 </div>
